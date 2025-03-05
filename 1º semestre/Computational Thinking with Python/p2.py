@@ -32,7 +32,7 @@ else:
 
 #Crie um programa que receba o número de pontos e informe ao cliente quantos bônus ele receberá.
 
-# pontuação = int(input("Digite a pontuação: "))
+pontuação = int(input("Digite a pontuação: "))
 
 if pontuação >= 1000:
     print("Você ganhou 3gb de bônus")
